@@ -1,0 +1,8 @@
+{
+  "maps": [
+    {
+      "incoming_url": "foo1",
+      "url_pool": ["url1","url2"]
+    }
+  ]
+}
